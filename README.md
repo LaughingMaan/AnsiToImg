@@ -9,7 +9,7 @@
 [![PyPI Version](https://img.shields.io/pypi/v/AnsiToImg.svg?style=for-the-badge)](https://pypi.org/project/AnsiToImg)
 
 <!-- omit in toc -->
-# AnsiToImg
+# AnsiToImg (nested async patch)
 
 <img src="readme-assets/icons/name.png" alt="Project Icon" width="750">
 
